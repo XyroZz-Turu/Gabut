@@ -1,0 +1,38 @@
+
+h2 {
+  font-size:25px;
+  color: royalblue;
+  font-family: Arial;
+  text-align: center;
+}
+a {
+  font-size: 14px;
+  color:lightgreen;
+  font-family: Monospace;
+}
+p {
+  font-family: Times New Roman;
+}
+button {
+  float: center;
+  font-family: Monospace;
+  background-color: lightblue; /* Warna latar belakang */
+  color: black; /* Warna teks */
+  padding: 10px 10px; /* Padding dan ukuran */
+  text-align: center; /* Penataan teks */
+  text-decoration: Monospaceon; /* Dekorasi teks */
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; /* Cursor saat mouse diatas button */
+}
+input {
+  text-align: center;
+  font-size: 15px;
+  font-family: Monospace;
+}
+img {
+  cursor: pointer;
+  text-align: right;
+  vertical-align: right;
+}
