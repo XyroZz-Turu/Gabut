@@ -1,0 +1,22 @@
+#Xyro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+}
+button {
+  cursor: pointer;
+  font-size: 20px;
+  padding: 20px 30px;
+  border-radius: 20px;
+  background: crimson;
+}
+#h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+}
+h1{
+  font-family: Monospace;
+}
